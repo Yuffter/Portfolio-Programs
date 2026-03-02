@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 6773627d032ca4d429fe5bd93560aa62
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - checkPointParticle: {fileID: 2353600328335836179, guid: ceec7516237b4104b94300043ca39784, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
